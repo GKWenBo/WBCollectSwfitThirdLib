@@ -52,7 +52,7 @@
 
   [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - **18847 star**
 
-  KakaJSON - **336 star**
+  [KakaJSON](https://github.com/kakaopensource/KakaJSON) - **336 star**
 
 - Log工具
 
