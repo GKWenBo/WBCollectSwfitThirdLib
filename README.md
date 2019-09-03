@@ -83,6 +83,12 @@
   控制台输出log框架
 
   [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - **11524 star**
+  
+- 分页控件
+
+  A set of cool animated page controls written in Swift to replace boring UIPageControl.
+
+  [CHIPageControl](https://github.com/ChiliLabs/CHIPageControl) - **2309 star**
 
 ### 三、结语
 > 上面这些三方开源库按照自己的理解分类整理了一遍，这些库也是自己现在所了解到的，当然还有很多优秀的三方库自己也未发现和接触，我以后会不断在这篇博客中更新优秀的三方开源库。
