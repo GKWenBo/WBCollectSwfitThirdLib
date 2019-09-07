@@ -11,6 +11,10 @@
   
   [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) - **7098 star**
   
+  An iOS library to natively render After Effects vector animations 
+  
+  lottie-[ios](https://github.com/airbnb/lottie-ios) - **18065 star**
+  
 - 网络请求  
   [Alamofire](https://github.com/Alamofire/Alamofire) - **28292 star**
 
@@ -89,6 +93,32 @@
   A set of cool animated page controls written in Swift to replace boring UIPageControl.
 
   [CHIPageControl](https://github.com/ChiliLabs/CHIPageControl) - **2309 star**
+  
+- FRP框架
+
+  Reactive Programming in Swift
+
+  [RxSwift](https://github.com/ReactiveX/RxSwift) - **17102 star**
+
+  Reactive extensions to Cocoa frameworks, built on top of ReactiveSwift
+
+  [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - **19640 star**
+
+- Socket
+
+  Socket.IO-client for iOS/OS X.
+
+  [socket.io-client-swift](https://github.com/socketio/socket.io-client-swift) - **3837 star**
+
+  Websockets in swift for iOS and OSX
+
+  [Starscream](https://github.com/daltoniam/Starscream) - **5181 star**
+
+- 分段控件
+
+  Android PagerTabStrip for iOS.
+
+  [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) - **6061 star**
 
 ### 三、结语
 > 上面这些三方开源库按照自己的理解分类整理了一遍，这些库也是自己现在所了解到的，当然还有很多优秀的三方库自己也未发现和接触，我以后会不断在这篇博客中更新优秀的三方开源库。
