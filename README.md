@@ -94,6 +94,10 @@
 
   [CHIPageControl](https://github.com/ChiliLabs/CHIPageControl) - **2309 star**
   
+  [PageControls](https://github.com/popwarsweet/PageControls) - **750 star**
+  
+  [TKRubberIndicator](https://github.com/TBXark/TKRubberIndicator) - **1222 star**
+  
 - FRP框架
 
   Reactive Programming in Swift
